@@ -55,3 +55,11 @@ Prilagođen post procesor razvijen kroz **7 iterativnih verzija**:
 | Slika 3 | Slika 4 |
 |:-------:|:-------:|
 | ![Slika 3](Images/slika%203.png) | ![Slika 4](Images/slika%204.png) |
+
+## Autor
+
+**Marko Carević**  
+
+Diplomski rad, Fakultet informatike u Puli (FIPU), 2026.  
+
+Mentor: doc. dr. sc. Sandi Baressi Šegota
