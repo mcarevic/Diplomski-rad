@@ -46,3 +46,12 @@ Prilagođen post procesor razvijen kroz **7 iterativnih verzija**:
 - Probing operacije
 - Više radnih koordinatnih sustava
 - Kombinirane operacije
+## Screenshots
+
+| Slika 1 | Slika 2 |
+|:-------:|:-------:|
+| ![Slika 1](Images/slika%201.png) | ![Slika 2](Images/slika%202.png) |
+
+| Slika 3 | Slika 4 |
+|:-------:|:-------:|
+| ![Slika 3](Images/slika%203.png) | ![Slika 4](Images/slika%204.png) |
