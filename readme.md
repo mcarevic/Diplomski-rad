@@ -14,7 +14,6 @@ Ovaj repozitorij sadrži dva odvojena, ali povezana praktična doprinosa diploms
 
 Oba rješenja su open source i namijenjena korisnicima Millennium Machines Milo v1.5.
 
----
 
 ## 1. Custom Post Processor za HSMWorks Ultimate
 
@@ -76,6 +75,10 @@ Prilagođen post procesor razvijen kroz **7 iterativnih verzija**:
 | Slika 3 | Slika 4 |
 |:-------:|:-------:|
 | ![Slika 3](Images/slika%203.png) | ![Slika 4](Images/slika%204.png) |
+
+## Dokumenti
+- `Diplomski rad - Carević Marko.docx`
+- `Marko Carević - Prezentacija.pptx`
 
 ## Autor
 
